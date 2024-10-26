@@ -1,4 +1,4 @@
-**_<h1 align="center">:vulcan_salute: Hola a todos 👋 mi nombre es Katherine Alderete :computer:</h1>_**
+**_<h1 align="center">Hola a todos :vulcan_salute: mi nombre es Katherine Alderete :computer:</h1>_**
 El año 2021 di mis primeros pasos en programación, desde entonces he continuado mis estudios en diferentes lenguajes, principalmente asociados a JavaScript y bases de datos.<br><br>Me gusta leer y ver series/películas, comparto mi tiempo libre con mi familia.
 
 # 💻 Tech Stack:
