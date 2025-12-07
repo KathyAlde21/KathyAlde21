@@ -1,6 +1,7 @@
 # 💫 Hola a todos :vulcan_salute: mi nombre es Katherine Alderete :computer:
-El año 2021 di mis primeros pasos en programación, desde entonces he continuado mis estudios en diferentes lenguajes, principalmente asociados a JavaScript y bases de datos.<br><br>Me gusta leer y ver series/películas, comparto mi tiempo libre con mi familia.
-Soy Desarrolladora Full Stack JavaScript, Front End y Android, actualmente estoy realizando un Bootcamp de UX/UI para poder entregar al cliente productos acorde a sus requerimientos.
+El año 2021 di mis primeros pasos en programación, desde entonces he continuado mis estudios en diferentes lenguajes, principalmente asociados a JavaScript y bases de datos.<br><br>
+Me gusta leer y ver series/películas, comparto mi tiempo libre con mi familia.<br><br>
+Soy Desarrolladora Full Stack JavaScript, Front End y Android, actualmente estoy realizando un Bootcamp de UX/UI para poder entregar al cliente productos acorde a sus requerimientos.<br><br>
 Mi trayectoria previa en ventas de propiedades y emprendimientos, me permiten comunicarme con claridad con personas no técnicas y entender las necesidades del cliente.
 
 # 💻 Tech Stack:
