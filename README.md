@@ -11,9 +11,4 @@ Mi trayectoria previa en ventas de propiedades y emprendimientos, me permiten co
 ![](https://streak-stats.demolab.com/?user=KathyAlde21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KathyAlde21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=KathyAlde21&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
